@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # FamilyTree
 Consider the binary tree representation of a family tree in the book. Extend
 BinaryTree class to implement FamilyTree class. Your FamilyTree class should
@@ -36,3 +37,6 @@ Sema, Hasan, ebu-Ayşe
  Create a FamilyTree.
  Write your traverse method such that prints each traversed node to
 console. Traverse your tree.
+=======
+FamilyTree
+>>>>>>> Stashed changes
